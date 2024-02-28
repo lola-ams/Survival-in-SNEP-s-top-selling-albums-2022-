@@ -1,8 +1,8 @@
 # Survival in SNEP's top selling albums 2022
 
-## À propos
+## About the project
 
-This dataset was created to study the survival of albums in the music charts. 
+This dataset was created to analyze the survival of albums in the music charts. 
 **Are there any characteristics of albums that can influence how long they survive in the top charts ?**
 
 I chose the Top 200 best sold albums from SNEP to study this.
@@ -14,7 +14,7 @@ I chose the Top 200 best sold albums from SNEP to study this.
 
 ## Contents
 
-- 💡 [À propos](#à-propos)
+- 💡 [About the project](#about-the-project)
 - 🚀 [Description of the dataset](#description-of-the-dataset)
 - 📚 [Sources](#sources)
 - 📝 [Licence](#licence)
@@ -44,4 +44,4 @@ Data sources :
 
 ## Licence
 
-Voir le fichier [LICENSE](./LICENSE.md) du dépôt.
+View repository file [LICENSE](./LICENSE.md)
