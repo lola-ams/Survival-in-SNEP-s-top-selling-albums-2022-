@@ -17,7 +17,6 @@ I chose the Top 200 best sold albums from SNEP to study this.
 - 💡 [About the project](#about-the-project)
 - 🚀 [Description of the dataset](#description-of-the-dataset)
 - 📚 [Sources](#sources)
-- 📝 [Licence](#licence)
 
 ## Description of the dataset
 
@@ -41,7 +40,3 @@ Data sources :
 - SNEP : [Top Albums - SNEP (snepmusique.com)](https://snepmusique.com/les-tops/le-top-de-la-semaine/top-albums/?annee=2022&semaine=02)
 - Wikipedia pages of albums
 - Spotify
-
-## Licence
-
-View repository file [LICENSE](LICENSE.md)
