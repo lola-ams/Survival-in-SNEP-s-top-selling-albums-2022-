@@ -12,7 +12,7 @@ I chose the Top 200 best sold albums from SNEP to study this.
 **What is the Top 200 best sold albums ?** It’s a top published every Friday by the SNEP. It contains the 200 best-sellings albums of the week (Friday to Friday) in France. Physical sales and streaming are taken into account. 
 [About tops](https://snepmusique.com/top-radios/a-propos-des-tops/)
 
-<img src="SNEP2022.csv" alt="">
+<img src="SNEP2022.csv" alt="top">
 ## Contents
 
 - 💡 [About the project](#about-the-project)
