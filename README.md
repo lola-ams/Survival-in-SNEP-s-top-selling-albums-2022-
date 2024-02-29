@@ -9,7 +9,7 @@ I chose the Top 200 best sold albums from SNEP to study this.
 
 **What is the SNEP ("Syndicat National de l'Edition Phonographique") ?**  The SNEP is the inter-professional organisation that protects the interests of the French record industry since 1922. SNEP's responsibilities include collecting and distributing royalty payments for broadcast and performance, preventing copyright infringement of its members' works (including music piracy), and sales certification of silver, gold, platinum and diamond records and videos. SNEP also compiles weekly official charts of France's top-selling music, including singles and albums. 
 
-**What is the top-selling albums ?** It’s a top published every Friday by the SNEP. It contains the 200 best-sellings albums of the week (Friday to Friday) in France. Physical sales and streaming are taken into account. 
+**What is the Top 200 best sold albums ?** It’s a top published every Friday by the SNEP. It contains the 200 best-sellings albums of the week (Friday to Friday) in France. Physical sales and streaming are taken into account. 
 
 
 ## Contents
